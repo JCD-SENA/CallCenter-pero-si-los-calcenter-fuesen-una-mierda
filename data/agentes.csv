@@ -1,0 +1,4 @@
+id,nombre,numero,permiso1,permiso2,pass,descansoStart,descansoEnd,tipo,activo
+1,Agente A,0007,FALSE,TRUE,q,10:26,10:27,1,0
+2,Agente B,0008,FALSE,FALSE,q,18:00,10:27,1,0
+3,Admin,0451,TRUE,TRUE,asd,23:00,23:59,0,0
